@@ -8,7 +8,6 @@ class Node(object):
         self.next = next_node
 """
 
-
 def has_cycle(head):
     fast = head
     
